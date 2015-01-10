@@ -1,0 +1,3 @@
+C:\Users\Bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\bin\Debug\PrintMyNameTwoLines.exe.config
+C:\Users\Bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\obj\Debug\PrintMyNameTwoLines.exe
+C:\Users\Bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\obj\Debug\PrintMyNameTwoLines.pdb

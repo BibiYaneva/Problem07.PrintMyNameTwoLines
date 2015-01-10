@@ -1,0 +1,6 @@
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\bin\Debug\PrintMyNameTwoLines.exe.config
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\bin\Debug\PrintMyNameTwoLines.exe
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\bin\Debug\PrintMyNameTwoLines.pdb
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\obj\Debug\Problem7.PrintMyNameTwoLines.csprojResolveAssemblyReference.cache
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\obj\Debug\PrintMyNameTwoLines.exe
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintMyNameTwoLines\obj\Debug\PrintMyNameTwoLines.pdb
